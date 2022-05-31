@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  width: 95%;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.button {
+  display: block;
+  width: 120px;
+  height: 40px;
+  align-items: center;
+  margin-top: 20%;
+}
+
+.image {
+  display: block;
+  width: 1200px;
+  object-fit: cover;
+  height: 800px;
+}
